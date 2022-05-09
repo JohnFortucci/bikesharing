@@ -17,10 +17,13 @@ The link above provide the link to the published Tableau story.
 The Tableau story contains 8 Visualizations
 
 1. Number of rides
-2. Breakdown by customer type
-3. Duration times
-4. Checkout times by gender
-5. Trips by Weekday per hour
-6. Trips by Gender (Weekdays by Hour
-7. Breakdown by customer type and by weekday
-8. Starting locations
+
+
+![Fileter Live Image](/resources/Outcome_filter.PNG)Story_S1.PNG
+3. Breakdown by customer type
+4. Duration times
+5. Checkout times by gender
+6. Trips by Weekday per hour
+7. Trips by Gender (Weekdays by Hour
+8. Breakdown by customer type and by weekday
+9. Starting locations

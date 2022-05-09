@@ -32,3 +32,18 @@ The Tableau story contains 8 Visualizations
 ![Fileter Live Image](/Resources/Story_S7.PNG)
 - Starting locations
 ![Fileter Live Image](/Resources/Story_S8.PNG)
+
+## Summary
+
+While the data is complelling to have a CitiBike business , the data analysis for Des Moines needs to take into account the general population differences between NYC and Des Moines.
+
+Further analysis should be performed on :- 
+
+1) Age demographics from both cities
+
+Additional Visualization
+
+It is suggested that the following additional vizualizations be created
+
+1) Annual subscriptions v Ad hoc usage - This is primarily linked to determine if Tourism is a factor (Ad Hoc would suggest tourism where Annual SUbscription would suggest residents of the city).
+2) As our data showed , there is a peak usage at the traditional rush hours , which would suggest that Citibike is cutting method. Where NYC has densley populated areas and the working cummute is most likely local for this utilization. What is the average working commute for Des Moines residents.

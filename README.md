@@ -19,7 +19,7 @@ The Tableau story contains 8 Visualizations
 1. Number of rides
 
 
-![Fileter Live Image](/resources/Story_S1.PNG)
+![Fileter Live Image](/Resources/Story_S1.PNG)
 3. Breakdown by customer type
 4. Duration times
 5. Checkout times by gender

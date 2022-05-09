@@ -40,6 +40,7 @@ While the data is complelling to have a CitiBike business , the data analysis fo
 Further analysis should be performed on :- 
 
 1) Age demographics from both cities
+2) Key attraction distances.
 
 Additional Visualization
 
